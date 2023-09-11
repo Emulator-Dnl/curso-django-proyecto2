@@ -8,4 +8,6 @@ En la carpeta 'webempresa' implementamos django utilizando los recursos de 'webe
 
 La raíz cuenta con el archivo Pipfile que mediante la librería pipenv y comando ´pipenv install´ nos permite crear el entorno virtual requerido para que el proyecto funcione rápidamente sin instalar las librerías en el equipo físico.
 
-
+El proyecto también cuenta con una base de datos sqlite. Podemos añadir registros a ella desde el administrador django:
+1. Usuario: 'rtrt'
+2. Contraseña: 'Pa$$w0rd'
